@@ -1,7 +1,7 @@
 # task-manager-api 
-# User GRUD - auth
-# Task GRUD
-# Tasks filtering
+User GRUD - auth
+Task GRUD
+Tasks filtering
 
 ## NodeJS, Express , MongoDB, Mongoose, bcrypt, jsonwebtoken, @sendgrid/mail, multer, validator
 
@@ -15,6 +15,8 @@ PORT=YOURPORT
 SENDGRID_API_KEY=YOUR_SEND_GRID_API_KEY
 JWT_SECRET=YOUR_SECRECT_KEY
 
-## Development npm run dev
+# Development npm run dev
+For testing purposes we used https://www.postman.com/
+
 
 
