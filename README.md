@@ -1,6 +1,9 @@
 # task-manager-api 
+
 User GRUD - auth
+
 Task GRUD
+
 Tasks filtering
 
 ## NodeJS, Express , MongoDB, Mongoose, bcrypt, jsonwebtoken, @sendgrid/mail, multer, validator
