@@ -11,7 +11,12 @@ Tasks filtering
 Run npm install
 
 ## Email service API https://sendgrid.com/
-Create path and file ./config/dev.env for development.
+
+Replace from = 'task.manager.app@yourVerifiedDomain.com || Sendgrid Verfied Single Sender ' .
+
+File path src/emails/account.js
+
+# Create path and file ./config/dev.env for development.
 
 MONGODB_URL=mongodb://127.0.0.1:27017/YOUR_MONGO_DB_NAME
 
